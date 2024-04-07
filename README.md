@@ -20,3 +20,5 @@ The quality classification is made based on the following metrics:</p>
 > Image Field: does the image field includes all of the optic nerve head and macula?
 >
 > Artifacts: is the image free of artifacts, such as dust, arch deffects, eyelashes images, lens reflex etc.?
+>
+> Adequate: the above metrics are not meaningful on the image
