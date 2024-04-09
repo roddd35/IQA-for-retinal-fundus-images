@@ -9,9 +9,9 @@
 
 <p align="justify">This project was first proposed at University of São Paulo Medical School (FMUSP), in which the final goal is to detect possible causes for Cognitive Decline, and Diabetes is one of the research scopes. On top of that, Computer Science students at IME-USP are being responsible for developing a deep learning algorithm capable of recognizing eye diseases, including Diabetic Retinopathy, really common on people with diabetes, and this classification should be held into account on the Cognitive Decline research.</p>
   
- <p align="justify">To optimize the results on the eye diseases classification problem and guarantee that no meaningful information to detect an eye disease is missing on the image, causing no harm to the feature extraction, it is really important to assess the quality of the images used.
+ <p align="justify">To optimize the results on the eye diseases classification problem and guarantee that no meaningful information to detect an eye disease is missing on the image, causing no harm to the feature extraction, it is really important to assess the quality of the images used.</p>
 
-The quality classification is made based on the following metrics:</p>
+<p align="justify">The quality classification is made based on the following metrics:</p>
 
 > Focus: is the focus good enough to perform proper classification on smaller retinal injuries?
 >
@@ -22,3 +22,7 @@ The quality classification is made based on the following metrics:</p>
 > Artifacts: is the image free of artifacts, such as dust, arch deffects, eyelashes images, lens reflex etc.?
 >
 > Adequate: the above metrics are not meaningful on the image
+
+<p align="justify">and we aim to classificate the images between <b>Inadequate</b> (when the image present any of the above metrics) or <b>Adequate</b> (the image does not present any of the above metrics, and is good enough for abnormalities recognition).</p>
+
+## Images Preview
