@@ -26,3 +26,13 @@
 <p align="justify">and we aim to classificate the images between <b>Inadequate</b> (when the image present any of the above metrics) or <b>Adequate</b> (the image does not present any of the above metrics, and is good enough for abnormalities recognition).</p>
 
 ## Images Preview
+<p align="center"><img src="img_analysis/eyeQuality.png" width="70%"/></p>
+<p align="center">Examples of impaired/ungradable images. (A) Poor focus and clarity due to overall haze. (B) Poor macula visibility due to uneven illumination. (C) Poor optic disc visibility due to total blink. (D) Edge haze due to pupillary restriction. (E) Dust and dirt artifacts on the lens image capture system (near the center). (F) Lash artifact.</p>
+
+## Pre-processing and fine tuning
+
+## Model training details
+
+## Results
+
+## Files description
