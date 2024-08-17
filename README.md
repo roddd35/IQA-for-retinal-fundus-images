@@ -5,7 +5,7 @@
 
 ## General
 
-<p align="justify">Research project being developed for the University of São Paulo, in Brasil, aiming to classify correctly the quality label of an eye-fundus images using Convolutional Neural Networks. This project was based on the brazilian dataset BRSet, put together by the Federal University of São Paulo, putting Brazil on the spot for Ophthalmology research; and the EyeQ dataset, a famous public dataset for IQA in eye pictures.</p>
+<p align="justify">Research project developed for the University of São Paulo, in Brasil, aiming to classify correctly the quality label of an eye-fundus images using Convolutional Neural Networks. This project was based on the brazilian dataset BRSet, put together by the Federal University of São Paulo, taking Brazil to the spotlight for Ophthalmology research; and the EyeQ dataset, a famous public dataset for IQA in eye fundus images.</p>
 
 <p align="justify">This project was first proposed at University of São Paulo Medical School (FMUSP), in which the final goal is to detect possible causes for Cognitive Decline, and Diabetes is one of the research scopes. On top of that, Computer Science students at IME-USP are being responsible for developing a deep learning algorithm capable of recognizing eye diseases, including Diabetic Retinopathy, really common on people with diabetes, and this classification should be held into account on the Cognitive Decline research.</p>
   
