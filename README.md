@@ -115,9 +115,19 @@ By observing the results obtained, the model performed great on EyeQ, with all m
 
 <p align="justify">When running the same experiments on this problem, I have noticed that I was actually getting a better performance using the softmax activation function, not really related to accuracy, but related to the number of epochs necessary to converge to the answer, as the following graphics show:</p>
 
+<p float="left">
+  <img src="model/data/images/sigmoid_accuracy_evolution.png" width="502.5"/>
+  <img src="model/data/images/softmax_accuracy_evolution.png" width="502.5"/>
+</p>
+<p align="center" style="font-size:0.5em;">Fig. 3/Fig. 4: Accuracy evolution using sigmoid/softmax, respectively</p>
 
+<p float="left">
+  <img src="model/data/images/sigmoid_loss_evolution.png" width="502.5"/>
+  <img src="model/data/images/softmax_loss_evolution.png" width="502.5"/>
+</p>
+<p align="center" style="font-size:0.5em;">Fig. 3/Fig. 4: Loss evolution using sigmoid/softmax, respectively</p>
 
-<p align="justify">For right now I have not yet tested it more often to confirm that this holds on most of the cases, but it is a quite interesting result :)</p>
+<p align="justify">As it is possible to see, the model tends to converge faster using softmax. As for right now I have not yet tested it more often and ran statistical models in order to confirm that this holds on most of the cases, but it is a quite interesting result :)</p>
 
 ## References
 [1] Wang, Z., Bovik, A. C., and Lu, L. (2002). Why is image quality assessment so
